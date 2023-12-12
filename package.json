@@ -1,7 +1,12 @@
 {
-  "name": "dimpi",
+  "name": "DIMPI",
+  "author": {
+    "name": "Ioseb Koplatadze",
+    "url": "https://github.com/IosebKoplatadze"
+  },
   "version": "0.0.0",
   "description": "",
+  "repository": "https://github.com/IosebKoplatadze/dimpi.git",
   "type": "module",
   "scripts": {
     "start": "vite",
@@ -23,5 +28,6 @@
     "typescript": "^5.0.2",
     "vite": "^4.4.4",
     "vite-plugin-solid": "^2.7.0"
-  }
+  },
+  "packageManager": "npm@8.19.4"
 }

@@ -6,9 +6,9 @@ Developed with [SolidJS](https://www.solidjs.com/), [Rust](https://www.rust-lang
 
 Everything is open source.
 
-License: [MIT](https://opensource.org/licenses/MIT)
+## Authors
 
-Author: [Ioseb Koplatadze](https://github.com/IosebKoplatadze) 🇬🇪
+- [Ioseb Koplatadze 🇬🇪](https://github.com/IosebKoplatadze) (20% of my country is occupied by Russia)
 
 ## TODO
 
@@ -69,3 +69,11 @@ Author: [Ioseb Koplatadze](https://github.com/IosebKoplatadze) 🇬🇪
     * winnerTeamId
     * winnerPlayerId
     * bestScoreId
+
+## Contributing
+
+Contributions are always welcome!
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
