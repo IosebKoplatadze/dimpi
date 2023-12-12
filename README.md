@@ -2,10 +2,13 @@
 
 mobile/web app for playing games with friends
 
-Developed with [SolidJS](https://www.solidjs.com/), [Rust](https://www.rust-lang.org/) and  [Tauri](https://tauri.app/)
+Developed with [SolidJS](https://www.solidjs.com/), [Rust](https://www.rust-lang.org/) and [Tauri](https://tauri.app/)
+
 Everything is open source.
+
 License: [MIT](https://opensource.org/licenses/MIT)
-Author: [Ioseb Koplatadze](https://github.com/IosebKoplatadze)
+
+Author: [Ioseb Koplatadze](https://github.com/IosebKoplatadze) 🇬🇪
 
 ## TODO
 
